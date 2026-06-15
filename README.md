@@ -1,4 +1,4 @@
-# foliate-js
+# GemFoliate
 
 Library for rendering e-books in the browser.
 
